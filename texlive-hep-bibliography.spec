@@ -1,6 +1,6 @@
 Name:		texlive-hep-bibliography
 Version:	64888
-Release:	1
+Release:	2
 Summary:	An acronym extension for glossaries
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-bibliography
