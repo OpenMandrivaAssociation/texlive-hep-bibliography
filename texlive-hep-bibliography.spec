@@ -3,7 +3,7 @@ Version:	67632
 Release:	1
 Summary:	An acronym extension for glossaries
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-bibliography
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hep-bibliography
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hep-bibliography.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hep-bibliography.doc.r%{version}.tar.xz
