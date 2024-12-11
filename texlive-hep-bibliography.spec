@@ -1,5 +1,5 @@
 Name:		texlive-hep-bibliography
-Version:	67632
+Version:	72984
 Release:	1
 Summary:	An acronym extension for glossaries
 Group:		Publishing
